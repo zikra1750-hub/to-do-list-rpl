@@ -1,0 +1,4 @@
+# Rencana Proyek 
+-Tujuan: Membuat To-do list berbasis website
+-Tools: Python, Tkinter
+-Fitur Utama: Tambah tugas serta deskripsi jika perlu, hapus tugas, lihat daftar tugas, waktu pengingat, tingkat prioritas tugas, tanggal mulai dan deadline serta frekuensi tugas bersifat berulang, klasifikasi tugas, statistik data, dan penimpanan/sinkronisasi data.
